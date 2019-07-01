@@ -2,6 +2,7 @@
 
 require 'smart_proxy_insights_receiver/insights_receiver_api'
 
-map '/insights_receiver' do
+# rename ?
+map '/insights' do
   run Proxy::InsightsReceiver::Api
 end

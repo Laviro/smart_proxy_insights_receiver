@@ -1,0 +1,4 @@
+---
+:enabled: true
+:api_url: 'https://localhost:8000'
+:uploads_folder: '/home/rlavi/test_folder/'
